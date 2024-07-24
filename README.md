@@ -107,7 +107,6 @@ $ npm run dev
 - Use this email to login: marcelopereiradev@gmail.com and check your pizza-shop-api terminal
 ```
 
-⚠️ If you want to run the application with more realistic data, clone this repository [pizza-shop-api](https://github.com/marcelopajr/pizza-shop-api) and follow the steps to run the API.<br/>
-Otherwise, the application will run with mocked data from the Mock Service Worker.
+⚠️ If you want to run the application with more realistic data, clone this repository [pizza-shop-api](https://github.com/marcelopajr/pizza-shop-api) and follow the steps to run the API. Otherwise, the application will run with mocked data from the Mock Service Worker.
 
 Have fun!
