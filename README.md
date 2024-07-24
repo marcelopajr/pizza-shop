@@ -3,19 +3,33 @@
 </h1>
 
 <p align="center">
+  <a href="#-screenshots">Screenshots</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-about">About</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-project">Project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-how-to-run">How to run</a>
 </p>
 
+## 📷 Screenshots
+
+### Dashboard
 <p align="center">
-  <img alt="Pizza Shop" src=".github/pizza-shop.png" width="100%">
+  <img alt="Pizza Shop Dashboard" src=".github/pizza-shop-dashboard.png" width="100%">
 </p>
 
-## ⛅ About
+### Orders
+<p align="center">
+  <img alt="Pizza Shop Orders" src=".github/pizza-shop-orders.png" width="100%">
+</p>
 
-Pizza Shop is your ultimate solution for efficient restaurant management. From signing in and out to tracking customer orders, Pizza Shop streamlines your operations, ensuring a smooth and hassle-free experience for both staff and customers.
+### Order Details
+<p align="center">
+  <img alt="Pizza Shop Orders" src=".github/pizza-shop-order-details.png" width="100%">
+</p>
+
+## 🍕 About
+
+Pizza Shop is your ultimate solution for efficient restaurant management. From registering restaurants to tracking customer orders, Pizza Shop streamlines your operations, ensuring a smooth and hassle-free experience for both staff and managers.
 
 ## 🚀 Project
 
@@ -50,10 +64,6 @@ Pizza Shop successfully delivered:
 - Secure Authentication: The secure sign-in and sign-out process ensured the safety and privacy of user data.
 - Positive Feedback: The application was praised for its intuitive design and reliability, leading to increased user adoption and satisfaction.
 - Scalable and Maintainable Codebase: The use of React.js with Vite and TypeScript ensured the app was easy to maintain and scalable for future enhancements.
-
-Explore Pizza Shop for a seamless and efficient restaurant management experience:
-
-<h3 align="center"><a href="https://marceloalmeida.vercel.app/" target="_blank">https://marceloalmeida.vercel.app/</a> 🚀🌐</h3>
 
 ## 🔧 Technologies
 
@@ -94,7 +104,7 @@ $ npx playwright test --ui
 - If you are also running the pizza-shop-api (more details bellow):
 $ npm run dev
 
-- Use this email to login: marcelopereiradev@gmail.com and check your terminal running the pizza-shop-api
+- Use this email to login: marcelopereiradev@gmail.com and check your pizza-shop-api terminal
 ```
 
 ⚠️ If you want to run the application with more realistic data, clone this repository [pizza-shop-api](https://github.com/marcelopajr/pizza-shop-api) and follow the steps to run the API.<br/>
